@@ -1,8 +1,8 @@
-# HIGH FIVE - Employee Recognition Web Application
+# TSIBA Engage - Employee Recognition Web Application
 
 ## Project Description 
 
-Project High Five is a multilayered web application that helps employees within an organization streamline peer recognition, feedback and Slack integration. Businesses that use Slack will love the integration. It’s easy for users to adopt and for the businesses to begin seeing employee engagement increase.
+Project TSIBA Engage is a multilayered web application that helps employees within an organization streamline peer recognition, feedback and Slack integration. Businesses that use Slack will love the integration. It’s easy for users to adopt and for the businesses to begin seeing employee engagement increase.
 
 Employees can send and receive points, feedback based on their performance, engagement and management around their day-to-day activities, projects, team intiatives involved within the organization. Based on the available points employees can also redeem them to purchase gift cards, invest in professional development courses and contribute to local charities. 
 
